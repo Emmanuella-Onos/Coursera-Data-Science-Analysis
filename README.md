@@ -19,7 +19,7 @@ During the data cleaning, a distinct id was attached to each course. Also, due t
 The dataset consisted of only one table. 
 
 ## Data Analysis and Result
-!(CourseraData1.jpg)
+![](CourseraData1.jpg)
 
 1.	Data Science subject consist of 298 courses with IBM, Google, and 4 other institutions offering at least 10 courses for the keyword. 
 2.	Most data science courses require a commitment of 1 month at 10 hours a week. 
